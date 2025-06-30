@@ -13,6 +13,11 @@ const questions = [
     question: "Which method is used to add an item to an array?",
     options: ["push()", "add()", "append()", "insert()"],
     answer: "push()"
+  },
+  {
+    question: "Which method is used to remove an item from an array?",
+    options: ["pop()", "remove()", "delete()", "shift()"],
+    answer: "pop()"
   }
 ];
 
